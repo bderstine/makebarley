@@ -1,0 +1,1 @@
+This folder is supposed to be empty, it's a temp work directory for uploads.
